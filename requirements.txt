@@ -1,8 +1,6 @@
-flask
-scikit-learn
-joblib
 fastapi
 uvicorn
-scikit-learn
-pandas
 pydantic
+numpy
+scikit-learn
+sentence-transformers
